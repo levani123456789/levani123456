@@ -1,0 +1,7 @@
+um1=int("intput")()
+num2=int("intput")()
+
+print("num1+num2")
+print("num1-num2")
+print("num1*num2")
+print("num1/num2")
